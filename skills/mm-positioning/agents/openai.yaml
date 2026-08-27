@@ -1,0 +1,4 @@
+interface:
+  display_name: "MM 定位判断"
+  short_description: "判断账号当前阶段、已验证人群、内容主线与唯一最大定位问题"
+  default_prompt: "Use $mm-positioning to先收齐账号来源、做数据情况、主页链接与连续3张截图和一个定位问题，再完成精简定位判断。"

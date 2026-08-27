@@ -1,0 +1,4 @@
+interface:
+  display_name: "MM 商单报价"
+  short_description: "判断母婴内容账号是否适合涨价，以及没广告卡在哪一环"
+  default_prompt: "Use $mm-pricing to判断我下个月是否适合涨价，或为什么最近没有广告。"
