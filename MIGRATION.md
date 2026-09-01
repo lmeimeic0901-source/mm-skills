@@ -6,6 +6,8 @@
 | --- | --- | --- |
 | `meimei-positioning-v2-beta` | `mm-positioning` | `1.0.5` |
 | `meimei-commercial-pricing-beta` | `mm-pricing` | `1.0.0` |
+| `meimei-cover-title` | `mm-cover-title` | `1.0.1` |
+| `meimei-cover-title-beta` | `mm-cover-title` | `1.0.1` |
 
 ## 为什么需要先移除旧名称
 
@@ -14,7 +16,7 @@ Skill 的内部 `name` 是安装身份。改名后，安装工具会把新名称
 ## 老用户迁移
 
 ```bash
-npx -y skills remove meimei-positioning-v2-beta meimei-commercial-pricing-beta -g
+npx -y skills remove meimei-positioning-v2-beta meimei-commercial-pricing-beta meimei-cover-title meimei-cover-title-beta -g
 npx -y skills add lmeimeic0901-source/mm-skills -g --all
 ```
 

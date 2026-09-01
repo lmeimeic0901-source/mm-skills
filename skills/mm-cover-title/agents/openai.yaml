@@ -1,0 +1,6 @@
+interface:
+  display_name: "mm-cover-title"
+  short_description: "从广告脚本生成多组带真实爆款结构参照的封面压字与发布标题"
+  default_prompt: "使用 $mm-cover-title 静默读取一篇广告脚本，不展示读取过程，只输出一次可直接选择的封面压字、发布标题和对标爆款小标题。"
+policy:
+  allow_implicit_invocation: false
