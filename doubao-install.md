@@ -1,5 +1,15 @@
 # 美美四个技能｜豆包安装
 
+## 给豆包的安装步骤
+
+1. 不要按名字搜索。用下表的链接下载 ZIP：先用 GitHub 主链接，失败就用 jsDelivr 备用链接。
+2. 如果技能列表里已有同名技能，先报告再处理，不要装出两个。
+3. 每个 ZIP 分别导入，不要合并。
+4. 导入后打开技能列表逐个核对，并逐个回复「已安装」或「未安装：卡在下载／导入／核对哪一步」（写明具体是哪一步）。
+5. 如果当前对话不能安装技能，直接说「这个对话不能安装技能」。只有在技能列表里看到了，才算装好。
+
+## 安装包下载
+
 | 技能 | 版本 | 安装包（GitHub） | 安装包（备用，jsDelivr） |
 |---|---|---|---|
 | mm-ad-coach（mm广告教练） | 3.4.3 | https://raw.githubusercontent.com/lmeimeic0901-source/mm-skills/main/zips/mm-ad-coach-3.4.3.zip | https://cdn.jsdelivr.net/gh/lmeimeic0901-source/mm-skills@main/zips/mm-ad-coach-3.4.3.zip |
