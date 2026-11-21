@@ -1,6 +1,6 @@
 # MM Skills
 
-美美的母婴账号与内容工具箱。当前包含七个可独立安装、独立调用的 Skill。
+美美的母婴账号与内容工具箱。当前包含八个可独立安装、独立调用的 Skill。
 
 ## 当前包含
 
@@ -8,11 +8,22 @@
 - `mm-pricing` `1.0.0`：MM 商单报价
 - `mm-cover-title` `1.0.1`：从完整广告脚本生成3—4组封面压字、辅助小字、20字内发布标题和真实爆款小标题参照
 - `mm-ad-coach` `3.4.3`：mm 广告教练
+- `mm-ad-coach-regress` `3.6.0-RC3`：mm 广告教练回归候选
 - `mm-test-coach` `2.7.1`：mm 测评教练
 - `mm-decode` `1.0.0-RC11`：mm 爆款拆解（学员内测版）
 - `mm-review` `2.0.0`：mm 学员改稿
 
 豆包用户请看 [安装包下载与安装说明](doubao-install.md)。
+
+## 单独安装广告教练回归候选 3.6.0-RC3
+
+豆包里单独安装这一包。技能名是 `mm-ad-coach-regress`。
+
+- GitHub：https://raw.githubusercontent.com/lmeimeic0901-source/mm-skills/main/zips/mm-ad-coach-regress-3.6.0-rc3.zip
+- 备用 jsDelivr：https://cdn.jsdelivr.net/gh/lmeimeic0901-source/mm-skills@main/zips/mm-ad-coach-regress-3.6.0-rc3.zip
+
+手机：在豆包新开对话，粘贴 [安装说明](doubao-install.md) 里这一包的安装口令。
+电脑：下载上面的 zip，在豆包「技能管理 → 个人 → 添加 → 上传技能」里拖进去。
 
 ## 一句话安装或更新全部
 
